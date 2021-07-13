@@ -1,5 +1,6 @@
 {
   "name": "keeper-project",
+  "homepage":"https://depanshu.github.io/keeper",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
